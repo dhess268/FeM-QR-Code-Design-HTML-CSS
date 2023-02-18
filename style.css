@@ -48,7 +48,7 @@ p {
   color: hsl(228, 45%, 44%);
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 880px) {
   section {
     width: 20%;
     margin-left: 40%;
